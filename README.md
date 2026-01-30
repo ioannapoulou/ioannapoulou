@@ -22,7 +22,7 @@
 ### 📞 Contact me!
 If you're interested in collaborating or have any questions — I'd love to hear from you!
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ioanna-poulou-5a9548343/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230177B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
