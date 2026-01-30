@@ -10,9 +10,9 @@
 </a>
 
 ### 🌸 About Me
-👱‍♀️ Hey, I’m Ioanna and I’m from Greece 🇬🇷  
+👱‍♀️ Hey, I’m Ioanna 🇬🇷  
 🎓 BSc in Computer Science at **UoA**  
-🎓 Currently pursuing an MSc in Data Science at **EPFL** 🇨🇭   
+🎓 Currently pursuing a MSc in Data Science at **EPFL** 🇨🇭   
 📊 Strong interest in **databases and scalable data systems**  
 ⚙️ Background in low-level and system-level programming (C/C++)
 
