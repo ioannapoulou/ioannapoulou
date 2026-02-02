@@ -20,7 +20,7 @@
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,mysql,duckdb,html,css,javascript)
 
 ### 📞 Contact me!
-If you're interested in collaborating or have any questions — I'd love to hear from you!
+If you're interested in collaborating or have any questions, I'd love to hear from you!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ioanna-poulou-5a9548343/" target="_blank">
