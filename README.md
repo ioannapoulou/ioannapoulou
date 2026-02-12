@@ -10,11 +10,11 @@
 </a>
 
 ### 🌸 About Me
-👱‍♀️ Hey, I’m Ioanna 🇬🇷  
-🎓 BSc in Computer Science at **UoA**  
-🎓 Currently pursuing a MSc in Data Science at **EPFL** 🇨🇭   
-📊 Strong interest in **databases and scalable data systems**  
-⚙️ Background in low-level and system-level programming (C/C++)
+- Hey, I’m Ioanna 🇬🇷
+- BSc in Computer Science at **UoA**
+- Currently pursuing a MSc in Data Science at **EPFL** 🇨🇭
+- Strong interest in **databases and scalable data systems**
+- Background in low-level and system-level programming (C/C++)
 
 ### 🖥️ Programming Languages
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,mysql,duckdb,html,css,javascript)
