@@ -15,9 +15,11 @@
 - Currently pursuing a MSc in Data Science at **EPFL** 🇨🇭
 - Strong interest in **databases and scalable data systems**
 - Background in low-level and system-level programming (C/C++)
-
 ### 🖥️ Programming Languages
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,mysql,duckdb,html,css,javascript)
+![C, C++, Python, HTML, CSS, JavaScript](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,html,css,javascript)
+
+### 🗄️ Databases
+![MySQL, DuckDB, PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=mysql,duckdb,postgres)
 
 ### 📞 Contact me!
 If you're interested in collaborating or have any questions, I'd love to hear from you!
