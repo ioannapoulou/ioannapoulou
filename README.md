@@ -10,8 +10,8 @@
 </a>
 
 ### 🌸 About Me
-- Hey, I’m Ioanna 🇬🇷
-- BSc in Computer Science at **UoA**
+- Hey, I’m Ioanna 
+- BSc in Computer Science at **UoA** 🇬🇷
 - Currently pursuing a MSc in Data Science at **EPFL** 🇨🇭
 - Strong interest in **databases and scalable data systems**
 - Background in low-level and system-level programming (C/C++)
