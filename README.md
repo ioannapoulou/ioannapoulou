@@ -16,7 +16,7 @@
 - Strong interest in **databases and scalable data systems**
 - Background in low-level and system-level programming 
 ### 🖥️ Programming Languages
-![C, C++, Python, HTML, CSS, JavaScript](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,html,css,javascript)
+![C, C++, Python, HTML, CSS, JavaScript](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,scala,html,css,javascript)
 
 ### 🗄️ Databases
 ![MySQL, DuckDB, PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=mysql,duckdb,postgres)
