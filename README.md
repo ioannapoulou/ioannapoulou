@@ -14,7 +14,7 @@
 - BSc in Computer Science at **UoA** 🇬🇷
 - Currently pursuing a MSc in Data Science at **EPFL** 🇨🇭
 - Strong interest in **databases and scalable data systems**
-- Background in low-level and system-level programming (C/C++)
+- Background in low-level and system-level programming 
 ### 🖥️ Programming Languages
 ![C, C++, Python, HTML, CSS, JavaScript](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,python,html,css,javascript)
 
